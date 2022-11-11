@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+
+[![Shop App with Flutter and Dart](https://img.youtube.com/vi/M25llpn3aNE/0.jpg)](https://www.youtube.com/watch?v=M25llpn3aNE)
+
+
+https://youtu.be/M25llpn3aNE
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -15,7 +21,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-[![Shop App with Flutter and Dart](https://img.youtube.com/vi/M25llpn3aNE/0.jpg)](https://www.youtube.com/watch?v=M25llpn3aNE)
 
-
-https://youtu.be/M25llpn3aNE
